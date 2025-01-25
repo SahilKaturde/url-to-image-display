@@ -1,0 +1,50 @@
+@media (max-width: 385px) {
+    nav {
+        font-size: -1vh;
+        font-weight: 100;
+        /* white-space: nowrap; */
+        overflow: hidden;
+        width: 100%;
+        text-overflow: ellipsis;
+        border-radius: 0px;
+    }
+
+    .h2-box{
+        height: 20vh;
+        display: flex;
+        border-radius: 6vh;
+    }
+
+    .h2-box h2{
+        padding: 4vh;
+    }
+
+    .name{
+        padding: 2vh;
+    }
+
+    .best-text{
+        font-size: 3vh;
+    }
+
+    .name-tag-1{
+        margin-top: 7vh;
+        height: 15vh;
+        width: 100%;
+    }
+
+    .name-tag-2{
+        margin-top: 3vh;
+        padding-top: 3vh;
+        height: 30vh;
+        width: 100%;
+    }
+    
+    .page2{
+        padding: 7vh;
+    }
+
+    .info{
+        margin-left: -5vh;
+    }
+}
